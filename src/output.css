@@ -2041,6 +2041,14 @@ video {
     margin-left: 24px;
   }
 
+  .md\:ml-\[7\] {
+    margin-left: 7;
+  }
+
+  .md\:ml-\[7\%\] {
+    margin-left: 7%;
+  }
+
   .md\:block {
     display: block;
   }
